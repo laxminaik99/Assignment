@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "fs": "^0.0.1-security",
+    "jsdom": "^22.1.0",
+    "path": "^0.12.7",
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "zrpl-test",
+  "version": "1.0.0",
+  "main": "api-key-gen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
